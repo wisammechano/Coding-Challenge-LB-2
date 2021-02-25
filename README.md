@@ -7,15 +7,15 @@ _A web developer was working on a simple website for Re:Coded bootcamps_
 
 **This simple web page was designed to look like this before the JS part applied:**
 
-![Without JS Screenshot](img/codingChallenge1.png)
+![Without JS Screenshot](https://github.com/wisammechano/Coding-Challenge-LB-2/raw/master/imgs/codingChallenge1.png)
 
 **And like this after JS part applied:**
 
-![With JS Screenshot](img/codingChallenge2.png)
+![With JS Screenshot](https://github.com/wisammechano/Coding-Challenge-LB-2/raw/master/imgs/codingChallenge2.png)
 
 **A gif showing how the buttons and hover effect work:**
 
-![GIF Screenshot](img/codingChallenge.gif)
+![GIF Screenshot](https://github.com/wisammechano/Coding-Challenge-LB-2/raw/master/imgs/codingChallenge.gif)
 
 Here are the images links:
 - https://drive.google.com/open?id=1_YRh_FeX_owNopgxiz3A2kxWA4YnLHd6
