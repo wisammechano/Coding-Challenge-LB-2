@@ -7,11 +7,11 @@ _A web developer was working on a simple website for Re:Coded bootcamps_
 
 **This simple web page was designed to look like this before the JS part applied:**
 
-![Without JS Screenshot](https://github.com/ReCoded-Org/FWD-Coding-Challenge/raw/master/imgs/codingChallenge1.png)
+![Without JS Screenshot](https://github.com/ReCoded-Org/FWD-Coding-Challenge/raw/master/imgs/codingChallenge1.jpg)
 
 **And like this after JS part applied:**
 
-![With JS Screenshot](https://github.com/ReCoded-Org/FWD-Coding-Challenge/raw/master/imgs/codingChallenge2.png)
+![With JS Screenshot](https://github.com/ReCoded-Org/FWD-Coding-Challenge/raw/master/imgs/codingChallenge2.jpg)
 
 **A gif showing how the buttons and hover effect work:**
 
